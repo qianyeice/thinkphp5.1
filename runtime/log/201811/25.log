@@ -1,0 +1,5 @@
+---------------------------------------------------------------
+[ 2018-11-25T08:59:56+00:00 ] 127.0.0.1 GET www.qyice.co/
+[运行时间：0.032674s] [吞吐率：30.61req/s] [内存消耗：383.52kb] [文件加载：18]
+[ error ] [0]Fatal error: Class 'think\Container' not found[C:\Users\Administrator\Desktop\qyice\index.php:12]
+[ info ] [ LOG ] INIT File
